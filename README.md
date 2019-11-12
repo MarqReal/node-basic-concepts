@@ -4,3 +4,4 @@ This is a simple project that uses Node.js to understand the basics, but which a
 - Modules
 - Sequelize.js
 - HTTP server
+- Mongoose
